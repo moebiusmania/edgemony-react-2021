@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/edgemony-react-2021/static/css/main.c559fbf7.chunk.css",
-    "main.js": "/edgemony-react-2021/static/js/main.51a25814.chunk.js",
-    "main.js.map": "/edgemony-react-2021/static/js/main.51a25814.chunk.js.map",
-    "runtime-main.js": "/edgemony-react-2021/static/js/runtime-main.f70bab21.js",
-    "runtime-main.js.map": "/edgemony-react-2021/static/js/runtime-main.f70bab21.js.map",
-    "static/js/2.9f8fb9e9.chunk.js": "/edgemony-react-2021/static/js/2.9f8fb9e9.chunk.js",
-    "static/js/2.9f8fb9e9.chunk.js.map": "/edgemony-react-2021/static/js/2.9f8fb9e9.chunk.js.map",
-    "static/js/3.aa2a2196.chunk.js": "/edgemony-react-2021/static/js/3.aa2a2196.chunk.js",
-    "static/js/3.aa2a2196.chunk.js.map": "/edgemony-react-2021/static/js/3.aa2a2196.chunk.js.map",
+    "main.js": "/edgemony-react-2021/static/js/main.933e0f18.chunk.js",
+    "main.js.map": "/edgemony-react-2021/static/js/main.933e0f18.chunk.js.map",
+    "runtime-main.js": "/edgemony-react-2021/static/js/runtime-main.43791dc3.js",
+    "runtime-main.js.map": "/edgemony-react-2021/static/js/runtime-main.43791dc3.js.map",
+    "static/js/2.924a741b.chunk.js": "/edgemony-react-2021/static/js/2.924a741b.chunk.js",
+    "static/js/2.924a741b.chunk.js.map": "/edgemony-react-2021/static/js/2.924a741b.chunk.js.map",
+    "static/js/3.1b07ccea.chunk.js": "/edgemony-react-2021/static/js/3.1b07ccea.chunk.js",
+    "static/js/3.1b07ccea.chunk.js.map": "/edgemony-react-2021/static/js/3.1b07ccea.chunk.js.map",
     "index.html": "/edgemony-react-2021/index.html",
     "static/css/main.c559fbf7.chunk.css.map": "/edgemony-react-2021/static/css/main.c559fbf7.chunk.css.map",
-    "static/js/2.9f8fb9e9.chunk.js.LICENSE.txt": "/edgemony-react-2021/static/js/2.9f8fb9e9.chunk.js.LICENSE.txt"
+    "static/js/2.924a741b.chunk.js.LICENSE.txt": "/edgemony-react-2021/static/js/2.924a741b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f70bab21.js",
-    "static/js/2.9f8fb9e9.chunk.js",
+    "static/js/runtime-main.43791dc3.js",
+    "static/js/2.924a741b.chunk.js",
     "static/css/main.c559fbf7.chunk.css",
-    "static/js/main.51a25814.chunk.js"
+    "static/js/main.933e0f18.chunk.js"
   ]
 }
