@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/edgemony-react-2021/static/css/main.71ab224e.chunk.css",
-    "main.js": "/edgemony-react-2021/static/js/main.51ebe564.chunk.js",
-    "main.js.map": "/edgemony-react-2021/static/js/main.51ebe564.chunk.js.map",
-    "runtime-main.js": "/edgemony-react-2021/static/js/runtime-main.1803f0bd.js",
-    "runtime-main.js.map": "/edgemony-react-2021/static/js/runtime-main.1803f0bd.js.map",
-    "static/js/2.4e22f26b.chunk.js": "/edgemony-react-2021/static/js/2.4e22f26b.chunk.js",
-    "static/js/2.4e22f26b.chunk.js.map": "/edgemony-react-2021/static/js/2.4e22f26b.chunk.js.map",
-    "static/js/3.593b7cb8.chunk.js": "/edgemony-react-2021/static/js/3.593b7cb8.chunk.js",
-    "static/js/3.593b7cb8.chunk.js.map": "/edgemony-react-2021/static/js/3.593b7cb8.chunk.js.map",
+    "main.css": "/edgemony-react-2021/static/css/main.6bbe4987.chunk.css",
+    "main.js": "/edgemony-react-2021/static/js/main.2810fd25.chunk.js",
+    "main.js.map": "/edgemony-react-2021/static/js/main.2810fd25.chunk.js.map",
+    "runtime-main.js": "/edgemony-react-2021/static/js/runtime-main.67077b67.js",
+    "runtime-main.js.map": "/edgemony-react-2021/static/js/runtime-main.67077b67.js.map",
+    "static/js/2.e63b083b.chunk.js": "/edgemony-react-2021/static/js/2.e63b083b.chunk.js",
+    "static/js/2.e63b083b.chunk.js.map": "/edgemony-react-2021/static/js/2.e63b083b.chunk.js.map",
+    "static/js/3.343c823c.chunk.js": "/edgemony-react-2021/static/js/3.343c823c.chunk.js",
+    "static/js/3.343c823c.chunk.js.map": "/edgemony-react-2021/static/js/3.343c823c.chunk.js.map",
     "index.html": "/edgemony-react-2021/index.html",
-    "static/css/main.71ab224e.chunk.css.map": "/edgemony-react-2021/static/css/main.71ab224e.chunk.css.map",
-    "static/js/2.4e22f26b.chunk.js.LICENSE.txt": "/edgemony-react-2021/static/js/2.4e22f26b.chunk.js.LICENSE.txt"
+    "static/css/main.6bbe4987.chunk.css.map": "/edgemony-react-2021/static/css/main.6bbe4987.chunk.css.map",
+    "static/js/2.e63b083b.chunk.js.LICENSE.txt": "/edgemony-react-2021/static/js/2.e63b083b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1803f0bd.js",
-    "static/js/2.4e22f26b.chunk.js",
-    "static/css/main.71ab224e.chunk.css",
-    "static/js/main.51ebe564.chunk.js"
+    "static/js/runtime-main.67077b67.js",
+    "static/js/2.e63b083b.chunk.js",
+    "static/css/main.6bbe4987.chunk.css",
+    "static/js/main.2810fd25.chunk.js"
   ]
 }
