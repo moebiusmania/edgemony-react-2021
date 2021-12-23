@@ -1,5 +1,7 @@
 import { useState, useEffect } from "react";
 import { httpPOST } from "../../libs/http";
+
+import Modal from "./../Modal";
 import styles from "./CreatePost.module.scss";
 
 const CreatePost = () => {
@@ -7,11 +9,16 @@ const CreatePost = () => {
   const [imgInput, setImgInput] = useState("");
   const [messageInput, setMessageInput] = useState("");
   const [formPostObj, setFormPostObj] = useState({});
+  const [isModalVisible, setModalVisibile] = useState(false);
 
   const handleSendBtn = (event) => {
     event.preventDefault();
     httpPOST("/posts", formPostObj);
-    alert("Il post `e stato creato!");
+    setModalVisibile(true);
+
+    setTimeout(() => {
+      setModalVisibile(false);
+    }, 3000);
   };
 
   useEffect(() => {
@@ -25,6 +32,10 @@ const CreatePost = () => {
 
   return (
     <div className={styles.createPost}>
+      {isModalVisible && (
+        <Modal bgColor="lightskyblue" text="Il post è stato aggiunto" />
+      )}
+
       <form>
         <div className={styles.__author}>
           <input
