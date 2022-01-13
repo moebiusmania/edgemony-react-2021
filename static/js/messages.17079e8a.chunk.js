@@ -1,0 +1,2 @@
+(this["webpackJsonpedgemony-react-2021"]=this["webpackJsonpedgemony-react-2021"]||[]).push([[4],{42:function(e,s,t){"use strict";t.r(s);var n=t(1);s.default=function(){return Object(n.jsx)("h1",{children:"Messagesssss"})}}}]);
+//# sourceMappingURL=messages.17079e8a.chunk.js.map
